@@ -2,7 +2,19 @@
  *
  * Created by: Mr. Coxall
  * Created on: Sep 2020
- * This program ...
+ * This program shows a while loop
 */
 
-basic.showString('Hello, World!')
+// variables
+
+
+// setup
+basic.showIcon(IconNames.Happy)
+basic.pause(500)
+basic.clearScreen()
+
+// press "A" button
+input.onButtonPressed(Button.A, function() {
+  // setup
+
+})
